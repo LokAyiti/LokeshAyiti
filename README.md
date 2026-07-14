@@ -36,7 +36,7 @@ I'm always excited to collaborate on interesting projects, especially if they in
 - Open source contributions
 
 **Reach out to me:**
-- 📧 Email: ayitilokesh6@gmail.com
+- 📧 Email: lokeshayiti@outlook.com
   
 ## 💡 Fun Fact
 
