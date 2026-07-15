@@ -1,51 +1,34 @@
-# Hey there! 👋 I'm Lokesh
+Hi, I'm Lokesh Ayiti 👋
+I am an AI & Data Engineer building production AI systems and large-scale data pipelines on Azure. I specialize in LLM orchestration, multi-agent architectures, and cloud data platforms.
 
-Welcome to my corner of GitHub! I'm a passionate **Full-Stack Developer** with a strong focus on **Backend Engineering** and cloud technologies.
+🤖 What I Build
+AI & Agent Systems
 
-## 🚀 What I Do
+Document-intelligence services using Azure OpenAI — unstructured input → schema-validated structured output
 
-I build robust, scalable applications from the ground up. While I love crafting clean, responsive frontends, my real passion lies in architecting solid backend systems that can handle real-world challenges.
+Multi-agent pipelines with retrieval, reasoning, editing, and validation agents
 
-**Frontend Skills:**
-- HTML5, CSS3, JavaScript (ES6+)
-- Creating responsive, user-friendly interfaces
+Vector-embedding pipelines with Azure AI Search and Qdrant for semantic matching
 
-**Backend & Cloud:**
-- **Azure** - My go-to for cloud solutions and scalable architecture
-- **AWS** - Building and deploying production-ready applications
-- API development, microservices, and database design
-- DevOps and CI/CD pipelines
+Episodic memory and self-learning engines for AI systems
 
-## 📊 Current Focus
+Data Engineering
 
-I'm diving deep into **Trading & Sentiment Analysis** - combining my technical skills with financial markets to build intelligent trading systems. It's fascinating how data patterns can reveal market sentiment!
+Medallion architecture (Bronze → Silver → Gold) on Azure Databricks and Delta Lake
 
-## 🌱 Always Learning
+Large-scale migrations — Teradata to Azure Databricks (400M+ rows)
 
-The tech world never stops evolving, and neither do I. Currently expanding my knowledge in:
-- Advanced cloud architecture patterns
-- Machine learning for financial markets
-- Modern backend frameworks and tools
+Event-driven pipelines with Azure Data Factory, Event Grid, and Service Bus
 
-## 🤝 Let's Connect!
+Azure IAM/RBAC governance and Unity Catalog data lineage
 
-I'm always excited to collaborate on interesting projects, especially if they involve:
-- Backend system design
-- Cloud architecture
-- Trading algorithms or fintech solutions
-- Open source contributions
+🔧 Core Stack
+Azure OpenAI Azure Databricks Azure Data Factory Delta Lake Qdrant PySpark Python Azure AI Search Cosmos DB Azure Functions Docker GitHub Actions
 
-**Reach out to me:**
-- 📧 Email: lokeshayiti@outlook.com
-  
-## 💡 Fun Fact
+🌱 Currently Building
+graphify-swarm — An open-source multi-agent knowledge graph system that indexes any git repository into a queryable graph and routes queries through a four-agent analysis pipeline. Supports Databricks, OpenAI, Anthropic, Google, and local Ollama.
 
-When I'm not coding, you'll probably find me analyzing market trends or exploring new technologies. I believe the best solutions come from understanding both the technical and business sides of a problem.
+📬 Let's Connect
+📧 lokeshayiti@outlook.com
 
----
-
-*"Building the backend that powers the future, one API at a time."*
-<!---
-LokeshAyiti/LokeshAyiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"Build AI systems that are not just functional — but secure, auditable, and production-ready."
